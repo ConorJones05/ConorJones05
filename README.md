@@ -25,22 +25,22 @@ I am currently a student at UNC Chapel Hill, studying Statistics and Computer Sc
 - Data Visualization with D3.js
 
 ## 🧑‍💻 Featured Projects
-### [Project 1: Predictive Analytics for Stock Market](https://github.com/your-username/stock-market-predictor)  
+### [Project 1: Predictive Analytics for Stock Market](https://github.com/ConorJones05/stock-market-predictor)  
 Developed a machine learning model using Python, Pandas, and Scikit-Learn to predict stock market trends based on historical data.  
 
-### [Project 2: Data Science Capstone - Predicting Housing Prices](https://github.com/your-username/housing-price-predictor)  
+### [Project 2: Data Science Capstone - Predicting Housing Prices](https://github.com/ConorJones05/housing-price-predictor)  
 A comprehensive data analysis and modeling project to predict real estate prices using linear regression and decision trees.
 
 ## 🔗 Connect with Me:
-- [LinkedIn](www.linkedin.com/in/conor-jones05)
+- [LinkedIn](https://www.linkedin.com/in/conor-jones05)
 - [Portfolio](https://conorjones05.github.io/)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?conorjones05&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?conorjones05&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConorJones05&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ConorJones05&layout=compact&theme=radical)
 
 ## 🔥 GitHub Contribution Graph
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?conorjones05&theme=react-dark)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=ConorJones05&theme=react-dark)
 
 ## 🖼️ Cool Animations
 <img src="https://assets7.lottiefiles.com/packages/lf20_q5pk6p1k.json" alt="Animation" style="width: 300px;">
