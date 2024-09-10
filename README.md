@@ -32,15 +32,15 @@ Developed a machine learning model using Python, Pandas, and Scikit-Learn to pre
 A comprehensive data analysis and modeling project to predict real estate prices using linear regression and decision trees.
 
 ## 🔗 Connect with Me:
-- [LinkedIn](https://linkedin.com/in/conor-jones)
-- [Portfolio](https://your-portfolio-link.com)
+- [LinkedIn](www.linkedin.com/in/conor-jones05)
+- [Portfolio](https://conorjones05.github.io/)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?conorjones05&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?conorjones05&layout=compact&theme=radical)
 
 ## 🔥 GitHub Contribution Graph
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?conorjones05&theme=react-dark)
 
 ## 🖼️ Cool Animations
 <img src="https://assets7.lottiefiles.com/packages/lf20_q5pk6p1k.json" alt="Animation" style="width: 300px;">
