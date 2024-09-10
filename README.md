@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Conor Jones  
+# Conor Jones  
 I am currently a student at UNC Chapel Hill, studying Statistics and Computer Science with an emphasis on Data Science. My interests lie in data analysis, machine learning, and computational problem-solving.
 
 ## 🛠️ My Skills:
@@ -39,13 +39,3 @@ A comprehensive data analysis and modeling project to predict real estate prices
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConorJones05&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ConorJones05&layout=compact&theme=radical)
-
-## 🔥 GitHub Contribution Graph
-[![Conor's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ConorJones05&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🖼️ Cool Animations
-<img src="https://assets7.lottiefiles.com/packages/lf20_q5pk6p1k.json" alt="Animation" style="width: 300px;">
-
-## 😄 Fun Facts:
-- I enjoy participating in data science challenges on [Kaggle](https://www.kaggle.com/).
-- Outside of coding, I’m into running, hiking, and photography 📸.
