@@ -40,7 +40,7 @@ A comprehensive data analysis and modeling project to predict real estate prices
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ConorJones05&layout=compact&theme=radical)
 
 ## 🔥 GitHub Contribution Graph
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=ConorJones05&theme=react-dark)
+[![Conor's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ConorJones05&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🖼️ Cool Animations
 <img src="https://assets7.lottiefiles.com/packages/lf20_q5pk6p1k.json" alt="Animation" style="width: 300px;">
