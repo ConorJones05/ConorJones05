@@ -1,33 +1,38 @@
-# Hello! 👋 I'm [Your Name]  
-A passionate developer with interests in Web Development, AI, and Open Source.
+# Hello! 👋 I'm Conor Jones  
+I am currently a student at UNC Chapel Hill, studying Statistics and Computer Science with an emphasis on Data Science. My interests lie in data analysis, machine learning, and computational problem-solving.
 
 ## 🛠️ My Skills:
 - **Languages**:  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) 
-  ![Python](https://img.shields.io/badge/Python-3.8-blue)
-  ![HTML](https://img.shields.io/badge/HTML-5-orange)
-  ![CSS](https://img.shields.io/badge/CSS-3-blue)
+  ![Python](https://img.shields.io/badge/Python-3.8-blue) 
+  ![R](https://img.shields.io/badge/R-4.0.5-lightblue)
+  ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+  ![Java](https://img.shields.io/badge/Java-11-orange)
 
-- **Frameworks & Libraries**:  
-  ![React](https://img.shields.io/badge/React-17.0.1-blue) 
-  ![Django](https://img.shields.io/badge/Django-3.2-green) 
+- **Data Science Tools & Libraries**:  
+  ![Pandas](https://img.shields.io/badge/Pandas-1.3.0-green) 
+  ![NumPy](https://img.shields.io/badge/NumPy-1.21-blue) 
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24-yellow) 
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5-orange)
 
 - **Tools**:  
-  ![Git](https://img.shields.io/badge/Git-2.30-red) 
-  ![Docker](https://img.shields.io/badge/Docker-20.10-blue)
+  ![Git](https://img.shields.io/badge/Git-2.30-red)  
+  ![Docker](https://img.shields.io/badge/Docker-20.10-blue)  
+  ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)  
 
 ## 🌱 Currently Learning
-- Next.js, Rust, and Kubernetes
+- Deep Learning with TensorFlow
+- Advanced Statistical Modeling
+- Data Visualization with D3.js
 
 ## 🧑‍💻 Featured Projects
-### [Project 1: Cool Web App](https://codesandbox.io/s/example)  
-An interactive app that solves a common problem using [React](https://reactjs.org/).
+### [Project 1: Predictive Analytics for Stock Market](https://github.com/your-username/stock-market-predictor)  
+Developed a machine learning model using Python, Pandas, and Scikit-Learn to predict stock market trends based on historical data.  
 
-### [Project 2: AI Chatbot](https://your-replit-url.com)  
-A smart chatbot that uses [Python](https://python.org/) and [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing) to chat with users.
+### [Project 2: Data Science Capstone - Predicting Housing Prices](https://github.com/your-username/housing-price-predictor)  
+A comprehensive data analysis and modeling project to predict real estate prices using linear regression and decision trees.
 
 ## 🔗 Connect with Me:
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://linkedin.com/in/conor-jones)
 - [Portfolio](https://your-portfolio-link.com)
 
 ## 📊 GitHub Stats
@@ -41,5 +46,5 @@ A smart chatbot that uses [Python](https://python.org/) and [Natural Language Pr
 <img src="https://assets7.lottiefiles.com/packages/lf20_q5pk6p1k.json" alt="Animation" style="width: 300px;">
 
 ## 😄 Fun Facts:
-- I love coding challenges and am a regular participant in [LeetCode](https://leetcode.com/).
-- Outside of coding, I enjoy [hiking](https://www.alltrails.com/) and photography 📸.
+- I enjoy participating in data science challenges on [Kaggle](https://www.kaggle.com/).
+- Outside of coding, I’m into running, hiking, and photography 📸.
