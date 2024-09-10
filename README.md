@@ -13,6 +13,7 @@ I am currently a student at UNC Chapel Hill, studying Statistics and Computer Sc
   ![NumPy](https://img.shields.io/badge/NumPy-1.21-blue) 
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24-yellow) 
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5-orange)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-1.9-red)
 
 - **Tools**:  
   ![Git](https://img.shields.io/badge/Git-2.30-red)  
@@ -20,7 +21,7 @@ I am currently a student at UNC Chapel Hill, studying Statistics and Computer Sc
   ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)  
 
 ## 🌱 Currently Learning
-- Deep Learning with TensorFlow
+- Deep Learning with TensorFlow and PyTorch
 - Advanced Statistical Modeling
 - Data Visualization with D3.js
 
