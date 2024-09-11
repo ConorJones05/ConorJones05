@@ -26,11 +26,14 @@ I am currently a student at UNC Chapel Hill, studying Statistics and Computer Sc
 - Data Visualization with D3.js
 
 ## 🧑‍💻 Featured Projects
-### [Project 1: Predictive Analytics for Stock Market](https://github.com/ConorJones05/stock-market-predictor)  
-Developed a machine learning model using Python, Pandas, and Scikit-Learn to predict stock market trends based on historical data.  
+### [Project 1: UNC Database Scraper]([https://github.com/ConorJones05/UNC_Opportunities])
+Automated Data Scraper pasrsing and curating an email when new things are posted on unc opporunty dashboard
 
-### [Project 2: Data Science Capstone - Predicting Housing Prices](https://github.com/ConorJones05/housing-price-predictor)  
-A comprehensive data analysis and modeling project to predict real estate prices using linear regression and decision trees.
+### [Project 2: CSV To Google Calendar]([https://github.com/ConorJones05/CSV_ToGoogleCalendar]) 
+Using Google API and Oauth this project ured a CSV file of class assignments, class names, and dates into Google Taks
+
+### [Project 3: BattleshipAI]([https://github.com/ConorJones05/BattleshipAI])
+This project is designmed to model a game of battleship and eventaly prdicit best placemnts and stagries for playing battleship.
 
 ## 🔗 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/conor-jones05)
