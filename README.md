@@ -22,8 +22,7 @@ I am currently a student at UNC Chapel Hill, studying Statistics and Computer Sc
 
 ## 🌱 Currently Learning
 - Deep Learning with TensorFlow and PyTorch
-- Advanced Statistical Modeling
-- Data Visualization with D3.js
+- Geospatial data modeling
 
 ## 🧑‍💻 Featured Projects
 ### [Project 1: UNC Database Scraper]([https://github.com/ConorJones05/UNC_Opportunities])
