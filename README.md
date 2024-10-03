@@ -39,5 +39,4 @@ This project is designmed to model a game of battleship and eventaly prdicit bes
 - [Portfolio](https://conorjones05.github.io/)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ConorJones05&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ConorJones05&layout=compact&theme=radical)
