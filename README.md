@@ -1,9 +1,9 @@
 # Conor Jones  
-I am currently a student at UNC Chapel Hill, studying Statistics and Computer Science with an emphasis on Data Science. My interests lie in data analysis, machine learning, and computational problem-solving.
+Hi, I'm Conor, a student at UNC Chapel Hill majoring in Statistics and Computer Science. My passion lies in applying data analysis, machine learning, and computational problem-solving to real-world challenges, especially within Educational Technology (EdTech) research. I'm driven to explore how innovative technologies can enhance learning experiences and assessment methods.
 
 ## 🛠️ My Skills:
 - **Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3.8-blue) 
+  ![Python](https://img.shields.io/badge/Python-3.12-blue) 
   ![R](https://img.shields.io/badge/R-4.0.5-lightblue)
   ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
   ![Java](https://img.shields.io/badge/Java-11-orange)
@@ -19,20 +19,6 @@ I am currently a student at UNC Chapel Hill, studying Statistics and Computer Sc
   ![Git](https://img.shields.io/badge/Git-2.30-red)  
   ![Docker](https://img.shields.io/badge/Docker-20.10-blue)  
   ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)  
-
-## 🌱 Currently Learning
-- Deep Learning with TensorFlow and PyTorch
-- Geospatial data modeling
-
-## 🧑‍💻 Featured Projects
-### [Project 1: UNC Database Scraper]([https://github.com/ConorJones05/UNC_Opportunities])
-Automated Data Scraper pasrsing and curating an email when new things are posted on unc opporunty dashboard
-
-### [Project 2: CSV To Google Calendar]([https://github.com/ConorJones05/CSV_ToGoogleCalendar]) 
-Using Google API and Oauth this project ured a CSV file of class assignments, class names, and dates into Google Taks
-
-### [Project 3: BattleshipAI]([https://github.com/ConorJones05/BattleshipAI])
-This project is designmed to model a game of battleship and eventaly prdicit best placemnts and stagries for playing battleship.
 
 ## 🔗 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/conor-jones05)
