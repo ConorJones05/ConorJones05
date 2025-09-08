@@ -8,7 +8,7 @@ Beyond EdTech, I’m curious about how **AI/ML methods, human–computer interac
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 - **Educational Technology (EdTech):**  
   - Intelligent tutoring systems  
   - Automated feedback + assessment  
@@ -25,7 +25,7 @@ Beyond EdTech, I’m curious about how **AI/ML methods, human–computer interac
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3.12-blue) 
