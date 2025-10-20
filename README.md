@@ -20,8 +20,7 @@ Beyond EdTech, I’m curious about how **AI/ML methods, human–computer interac
 - **Human–Computer Interaction:**  
   - Code visualization tools  
   - User-centered design for student platforms  
-- **Interdisciplinary Projects:**  
-  - Merging computational methods with **neuroscience, chemistry, and art**  
+
 
 ---
 
